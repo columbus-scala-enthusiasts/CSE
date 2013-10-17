@@ -1,0 +1,11 @@
+Columbus Scala Enthusiasts
+==========================
+
+Group Project
+-------------
+
+This is, or will be, or at least _may_ be, the group project for the Columbus Scala Enthusiasts.
+
+Right now, it's little more than a newly-generated play! application ("play new CSE"), useful only 
+for setting up a remote development environment around; but eventually we'll decide more about what 
+we hope it'll turn out to be.
